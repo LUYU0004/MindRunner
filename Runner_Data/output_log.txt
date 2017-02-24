@@ -1,0 +1,114 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     970 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Keng Wei\MindRunner\Runner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Keng Wei\MindRunner\Runner_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Keng Wei\MindRunner\Runner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Keng Wei\MindRunner\Runner_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Keng Wei\MindRunner\Runner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\DotNetEmotivSDK.dll (this message is harmless)
+Loading E:\Keng Wei\MindRunner\Runner_Data\Managed\DotNetEmotivSDK.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\System.Xml.dll (this message is harmless)
+UnloadTime: 0.216282 ms
+No idle animation found. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+No walk animation found. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+No run animation found. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+No jump animation found and the character has canJump enabled. Turning off animations.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 398.
+Total: 0.515048 ms (FindLiveObjects: 0.018245 ms CreateObjectMapping: 0.007602 ms MarkObjects: 0.099588 ms  DeleteObjects: 0.004561 ms)
+
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+NullReferenceException: Object reference not set to an instance of an object
+  at EmotivController.get32Samples () [0x00000] in <filename unknown>:0 
+  at EmotivController.GetAttention () [0x00000] in <filename unknown>:0 
+  at EmotivController.GetAttention (System.String type) [0x00000] in <filename unknown>:0 
+  at AttentionControl+<UpdateAttention>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+AttentionControl:Start()
+ 
+(Filename:  Line: -1)
+
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/edk
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/.\libedk.dll
+Fallback handler could not load library E:/Keng Wei/MindRunner/Runner_Data/Mono/libedk.dll
+Platform assembly: E:\Keng Wei\MindRunner\Runner_Data\Managed\System.dll (this message is harmless)
+Saving PlayerInfo: C:/Users/chipes/AppData/LocalLow/DefaultCompany/Runner\lyh.xml
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Saving PlayerInfo: C:/Users/chipes/AppData/LocalLow/DefaultCompany/Runner\lyh.xml
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

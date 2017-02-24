@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a362a130d7ba57548aa363a6efb0cb26
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - character: {instanceID: 0}
+  - ground: {instanceID: 0}
+  - wall1: {instanceID: 0}
+  - wall2: {instanceID: 0}
+  - attentionBarFilled: {fileID: 2800000, guid: 3482fcd6ab2194243bee3615eabb40bf,
+      type: 3}
+  - attentionBarEmpty: {fileID: 2800000, guid: 869c32a6100bbe34b9f13ca7e17b9edc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
